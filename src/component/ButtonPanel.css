@@ -1,0 +1,10 @@
+.component-button-panel {
+    background-color: #fff;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.component-button-panel div{
+    display: flex;
+}

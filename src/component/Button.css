@@ -1,0 +1,19 @@
+.component-button button{
+    background-color: #fff;
+    font-size: 120px;
+    border: 0;
+}
+
+.component-button {
+    width: 25%;
+    display: flex;
+    justify-content: center;
+}
+
+.component-button.color button{
+    color: #6976EA;
+}
+
+.component-button.wide {
+    width: 50%;
+}
